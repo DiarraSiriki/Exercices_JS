@@ -30,3 +30,8 @@ Exemple : add(3,7) -> 10
 Exemple : multiply(3,4) -> 12
 [solution ici:](./multiply.js)
 
+## Exercice6
+ Écrire une fonction nommée is_even(n) qui retourne True si le nombre est pair sinon
+False
+[solution ici:](./isEven.js)
+
