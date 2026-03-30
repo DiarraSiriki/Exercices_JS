@@ -19,3 +19,14 @@ Exemple : double_number(4) -> 8
 square(5) -> 25
 
 [solution ici:](./square.js)
+
+## Exercice4
+ Écrire une fonction nommée add(a, b) qui retourne la somme des deux nombres.
+Exemple : add(3,7) -> 10
+[solution ici:](./add.js)
+
+## Exercice5
+ Écrire une fonction nommée multiply(a, b) qui retourne le produit des deux nombres.
+Exemple : multiply(3,4) -> 12
+[solution ici:](./multiply.js)
+
