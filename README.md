@@ -40,4 +40,9 @@ False
 sinon False.
 [solution ici:](./isPositive.js)
 
+## Exercice8
+Écrire une fonction nommée sum_list(numbers) qui retourne la somme des éléments
+d'une liste
+[solution ici:](./sumList.js)
+
 
