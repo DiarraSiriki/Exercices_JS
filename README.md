@@ -45,4 +45,8 @@ sinon False.
 d'une liste
 [solution ici:](./sumList.js)
 
+## Exercice9
+ Écrire une fonction nommée max_in_list(numbers) qui retourne le plus grand élément
+ [solution ici:](./maxInList.js)
+
 
