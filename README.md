@@ -35,3 +35,9 @@ Exemple : multiply(3,4) -> 12
 False
 [solution ici:](./isEven.js)
 
+## Exercice7
+ Écrire une fonction nommée is_positive(n) qui retourne True si le nombre est positif
+sinon False.
+[solution ici:](./isPositive.js)
+
+
