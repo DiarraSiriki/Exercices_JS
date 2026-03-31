@@ -57,4 +57,8 @@ d'une liste
  Écrire une fonction nommée string_length(text) qui retourne la longueur d'une chaîne
  [solution ici:](./stringLength.js)
 
+ ## Exercice12
+ Écrire une fonction nommée to_uppercase(text) qui retourne la chaîne en majuscule
+ [solution ici:](./toUpercase.js)
+
 

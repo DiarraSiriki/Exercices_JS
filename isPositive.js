@@ -2,10 +2,7 @@ function isPositive(n) {
 
     if (n > 0) {
         return true;
-    } else if (n===0) {
-        return null;
-    }
-        else {  
+    } else {  
             return false;
         }
 }
