@@ -53,4 +53,8 @@ d'une liste
   Écrire une fonction nommée min_in_list(numbers) qui retourne le plus petit élément
  [solution ici:](./minInList.js)
 
+ ## Exercice11
+ Écrire une fonction nommée string_length(text) qui retourne la longueur d'une chaîne
+ [solution ici:](./stringLength.js)
+
 
