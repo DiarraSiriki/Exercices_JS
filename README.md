@@ -49,4 +49,8 @@ d'une liste
  Écrire une fonction nommée max_in_list(numbers) qui retourne le plus grand élément
  [solution ici:](./maxInList.js)
 
+ ## Exercice10
+  Écrire une fonction nommée min_in_list(numbers) qui retourne le plus petit élément
+ [solution ici:](./minInList.js)
+
 
