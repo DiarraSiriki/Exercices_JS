@@ -80,3 +80,8 @@ carrés.
 Écrire une fonction nommée filter_even(numbers) qui retourne une liste de nombres
 pairs.
 [solution ici:](./filter_even.js)
+
+## Exercice 18 
+Écrire une fonction nommée count_elements(items) qui retourne le nombre
+d’éléments.
+[solution ici:](./count_elements.js)
