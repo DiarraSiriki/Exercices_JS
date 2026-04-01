@@ -71,12 +71,12 @@ multiplication jusqu’à 10
 n.
 [solution ici:](./sum_until.js)
 
-## Exercice16
+## Exercice17
 Écrire une fonction nommée square_list(numbers) qui retourne une liste contenant les
 carrés.
 [solution ici:](./square_list.js)
 
-## Exercice17
+## Exercice16
 Écrire une fonction nommée filter_even(numbers) qui retourne une liste de nombres
 pairs.
 [solution ici:](./filter_even.js)
