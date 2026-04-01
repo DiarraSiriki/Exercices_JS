@@ -1,11 +1,12 @@
 function multiplicationTable(n) {
-
+    
     for (let i = 1; i <= 10; i++) {
-        let resultat = n * i;
-        let table = `${n} x ${i} = ${resultat}`;
-        console.log(table);
+        
+        return (`${n} x ${i} = ${n * i}`);
+     
     }
 
-    return table
+   
 }
 
+console.log(multiplicationTable(5));
