@@ -62,6 +62,16 @@ d'une liste
  [solution ici:](./toUpercase.js)
 
 ## Exercice14
- Écrire une fonction nommée to_uppercase(text) qui retourne la chaîne en majuscule
+ Écrire une fonction nommée multiplication_table(n) qui retourne la table de
+multiplication jusqu’à 10
  [solution ici:](./multiplcationTable.js)
 
+## Exercice15
+: Écrire une fonction nommée sum_until(n) qui retourne la somme des nombres de 1 à
+n.
+[solution ici:](./sum_until.js)
+
+## Exercice15
+Écrire une fonction nommée square_list(numbers) qui retourne une liste contenant les
+carrés.
+[solution ici:](./square_list.js)
