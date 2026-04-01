@@ -61,4 +61,7 @@ d'une liste
  Écrire une fonction nommée to_uppercase(text) qui retourne la chaîne en majuscule
  [solution ici:](./toUpercase.js)
 
+## Exercice14
+ Écrire une fonction nommée to_uppercase(text) qui retourne la chaîne en majuscule
+ [solution ici:](./multiplcationTable.js)
 
