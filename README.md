@@ -85,3 +85,7 @@ pairs.
 Écrire une fonction nommée count_elements(items) qui retourne le nombre
 d’éléments.
 [solution ici:](./count_elements.js)
+
+## Exercice 19 
+Écrire une fonction nommée max_of_two(a, b) qui retourne le plus grand nombre.
+[solution ici:](./max_of_two.js)

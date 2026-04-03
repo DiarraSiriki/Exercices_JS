@@ -3,4 +3,4 @@ function countElements(items) {
     return count;
 }
 
-console.log(countElements([1, 2, 3, 4, 5]));
+console.log(countElements([1, 2, 3, 4, 5]))
