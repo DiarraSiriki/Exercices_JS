@@ -98,3 +98,7 @@ d’éléments.
 Écrire une fonction nommée is_palindrome(word) qui retourne True si le mot est un
 palindrome.
 [solution ici:](./is_palindrome.js)
+
+## Exercice 22
+Écrire une fonction nommée count_words(sentence) qui retourne le nombre de mots.
+[solution ici:](./count_word.js)
