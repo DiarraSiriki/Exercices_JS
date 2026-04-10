@@ -93,3 +93,8 @@ d’éléments.
 ## Exercice 20 
 Écrire une fonction nommée inverse_number(n) qui retourne l’inverse du nombre.
 [solution ici:](./inverse_number.js)
+
+## Exercice 21 
+Écrire une fonction nommée is_palindrome(word) qui retourne True si le mot est un
+palindrome.
+[solution ici:](./is_palindrome.js)
