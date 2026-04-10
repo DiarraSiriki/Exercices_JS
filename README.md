@@ -102,3 +102,7 @@ palindrome.
 ## Exercice 22
 Écrire une fonction nommée count_words(sentence) qui retourne le nombre de mots.
 [solution ici:](./count_word.js)
+
+## Exercice 24 
+ Écrire une fonction nommée factorial(n) qui retourne la factorielle.
+[solution ici:](./factorial.js)
