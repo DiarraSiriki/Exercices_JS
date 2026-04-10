@@ -1,7 +1,7 @@
 function countWords(sentence) {
     let wordCount = 0;
     for (let i = 0; i < sentence.length; i++) {
-        if (sentence[i] === " " || sentence[i] === ",") {
+        if (sentence[i] === " " || sentence[i] === ", ") {
             wordCount++;
         }
     }
